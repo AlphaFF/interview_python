@@ -487,7 +487,7 @@ class MyClass:
   ...
 ```
 
-### 4 import方法
+### 4 import方法(不能使用reload重载)
 
 作为python的模块是天然的单例模式
 
